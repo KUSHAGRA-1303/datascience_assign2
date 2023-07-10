@@ -49,8 +49,7 @@ string="Hello, World!"
 print(string[7:12:1])
 World
 True
-11:-
-is_student=True
+11)-is_student=True
 
 
 
